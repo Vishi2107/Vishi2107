@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Vishakha Rajput
 
 # 💫 About Me:
-You can call me Vishi<br>✉️  You can reach me through vishakhar871@gmail.com<br>🧠  I'm learning DSA and web development<br>🤝  I'm open to collaborating on Web Development Projects<br>
+You can call me Vishi!!<br>✉️  You can reach me through vishakhar871@gmail.com<br>🧠  I'm learning DSA and web development<br>🤝  I'm open to collaborating on Web Development Projects<br>
 
 
 ## 🌐 Socials:

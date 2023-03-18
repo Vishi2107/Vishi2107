@@ -1,12 +1,7 @@
 ### Hi there 👋 My name is Vishakha Rajput
 
-<!--
-**Vishi2107/Vishi2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- # 💫 About Me:
-✉️  You can reach me through vishakhar871@gmail.com<br>🧠  I'm learning DSA and web development<br>🤝  I'm open to collaborating on Web Development Projects<br>
+# 💫 About Me:
+Hi! My name is Vishakha Rajput<br>✉️  You can reach me through vishakhar871@gmail.com<br>🧠  I'm learning DSA and web development<br>🤝  I'm open to collaborating on Web Development Projects<br>
 
 
 ## 🌐 Socials:
@@ -23,4 +18,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Vishi2107&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
